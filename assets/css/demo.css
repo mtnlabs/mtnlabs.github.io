@@ -356,6 +356,7 @@
     color: #FFFFFF;
     font-size: 76px;
     font-weight: 600;
+    line-height: 9rem;
 
     text-align: center;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.33);
@@ -368,6 +369,9 @@
     position: relative;
     width: 306px;
     height: 0;
+}
+.blurred-container .motto p{
+  font-size: 20px;
 }
 .blurred-container .motto .border{
     float: left;
